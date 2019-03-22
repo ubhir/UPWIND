@@ -54,17 +54,17 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006101
 
 ## Data Sources
 
-1. Vancouver Open Data Catalogue - Building Footprints
+Vancouver Open Data Catalogue - Building Footprints
 https://data.vancouver.ca/datacatalogue/buildingFootprints.htm
 
-2. Vancouver Open Data Catalogue - Zoning Data Package
+Vancouver Open Data Catalogue - Zoning Data Package
 https://data.vancouver.ca/datacatalogue/zoning.htm
 
-3. Vancouver Open Data Catalogue - Local Area Boundary
+Vancouver Open Data Catalogue - Local Area Boundary
 https://data.vancouver.ca/datacatalogue/localAreaBoundary.htm
 
-4. Environment and Climate Change Canada - National Wind Atlas
+Environment and Climate Change Canada - National Wind Atlas
 http://www.windatlas.ca/maps-en.php
 
-5. 
+Vertical Axis Wind Turbines 
 https://www.dob-academy.nl/news/60-seconds-vertical-axis-wind-turbines/
