@@ -51,7 +51,8 @@ The interactive portion of our app lets the user evaluate wind potential at futu
 
 [3] Stand-Alone Wind Energy systems: A Buyer’s Guide (Natural Resources Canada, 2003)
 
-[4] https://phys.org/news/2011-07-wind-turbine-placement-tenfold-power.html
+[4] Wind Turbine Placement 
+https://phys.org/news/2011-07-wind-turbine-placement-tenfold-power.html
 
 [5] Household energy consumption, by type of dwelling, Canada and provinces.
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006101
