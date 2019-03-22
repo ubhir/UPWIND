@@ -38,3 +38,32 @@ Average energy production for several types of households in British Columbia wa
 The interactive portion of our app lets the user evaluate wind potential at any site in Vancouver using a heavily configured version of the Smart Editor Widget.
 
 This gives the mean annual speed and potential energy per turbine in kWh for heights of 30m, 50m, and +80m.
+
+## References
+
+[1] Natural Resources Canada - Energy Fact Book (2018)
+
+[2] City of Vancouver Renewable City Action Plan: Economic Modelling Results (2017)
+
+[3] Stand-Alone Wind Energy systems: A Buyer’s Guide (Natural Resources Canada, 2003)
+
+[4] https://phys.org/news/2011-07-wind-turbine-placement-tenfold-power.html
+
+[5] Household energy consumption, by type of dwelling, Canada and provinces.
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006101
+
+## Data Sources
+
+Vancouver Open Data Catalogue - Building Footprints
+https://data.vancouver.ca/datacatalogue/buildingFootprints.htm
+
+Vancouver Open Data Catalogue - Zoning Data Package
+https://data.vancouver.ca/datacatalogue/zoning.htm
+
+Vancouver Open Data Catalogue - Local Area Boundary
+https://data.vancouver.ca/datacatalogue/localAreaBoundary.htm
+
+Environment and Climate Change Canada - National Wind Atlas
+http://www.windatlas.ca/maps-en.php
+
+https://www.dob-academy.nl/news/60-seconds-vertical-axis-wind-turbines/
