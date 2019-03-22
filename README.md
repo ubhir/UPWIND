@@ -26,6 +26,7 @@ The properties for our theoretical VAWT model were derived from the average prop
 *Power (kWh)=((100*(WindSpeed)-200)*0.031536)/0.0036*
  
 **Analyzing Existing Buildings**
+
 For each neighbourhood in Vancouver we have a 3D web scene containing buildings, classified by zoning category.
 
 Several energy-related attributes have been calculated for every building in each neighbourhood, based on numerical modeling simulations taken from the Canadian Wind Atlas at 30m, 50m, and 80m above sea level. The roof area of a building allows us to calculate how many turbines can be theoretically mounted on it, based on their required separation distance for maximum efficiency. By referencing the Wind Atlas projections based on each building’s absolute height above ground,  the maximum yearly power output for each individual turbine has been calculated. By multiplying this by the maximum number of turbines the building can hold, we obtain the maximum potential wind power for this building in kWh.
@@ -33,6 +34,7 @@ Several energy-related attributes have been calculated for every building in eac
 Average energy production for several types of households in British Columbia was obtained from Statistics Canada [5]. By comparing the maximum potential wind power output to the given value from StatsCan, the app can calculate the percentage of total energy saved per household. Due to the extreme variability in energy consumption of non-residential buildings, consumption and potential saved energy were not calculated for these.
  
 **Exploring Future Potential**
+
 The interactive portion of our app lets the user evaluate wind potential at any site in Vancouver using a heavily configured version of the Smart Editor Widget.
 
 This gives the mean annual speed and potential energy per turbine in kWh for heights of 30m, 50m, and +80m.
