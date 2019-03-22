@@ -37,9 +37,7 @@ Average energy production for several types of households in British Columbia wa
  
 **Exploring Future Potential**
 
-The interactive portion of our app lets the user evaluate wind potential at any site in Vancouver using a heavily configured version of the Smart Editor Widget.
-
-This gives the mean annual speed and potential energy per turbine in kWh for heights of 30m, 50m, and +80m.
+The interactive portion of our app lets the user evaluate wind potential at future sites in Vancouver using a heavily configured version of the Smart Editor Widget.  When the user draws a polygon representing a building footprint, several wind-related variables are calculated at different heights, based on where the footprint is located in Vancouver. A pop-up then gives the mean annual wind speed in m/s and potential energy per turbine in kWh for heights of 30m, 50m, and >80m above the ground surface.
 
 ## References
 
