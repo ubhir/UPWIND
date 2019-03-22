@@ -19,6 +19,8 @@ Vertical axis wind turbines (VAWTs) have been found to be advantageous to tradit
 
 ## App Characteristics
 
+**Wind Analysis** 
+
 3D building multipatches were created by extruding building footprints from Vancouver’s Open Data portal, according to their provided roof heights. Several important wind energy attributes were calculated for each of these buildings based on numerical modeling simulations found in the Canadian Wind Atlas. These numerical models were  applied to power curves representative of modern commercial VAWT systems. Considering the wide variability of different models of VAWTs, we estimated power generation from an generalized wind turbine model. 
 
 The properties for our theoretical VAWT model were derived from the average properties of several small commercially available VAWT systems, with the diameter of the turbine was set to 2.5m. The Wind cut-in was set to 2m/s and the rated windspeed was set 12m/s. The rated power of our turbines was set 1000w, approximately the industry average. By modifying the power generation equation acquired from Natural Resources Canada, the maximum potential wind power output was calculated with:
