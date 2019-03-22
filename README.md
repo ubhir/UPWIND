@@ -54,14 +54,14 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2510006101
 
 ## Data Sources
 
-Vancouver Open Data Catalogue - Building Footprints
-https://data.vancouver.ca/datacatalogue/buildingFootprints.htm
+1. Vancouver Open Data Catalogue - Building Footprints
+   https://data.vancouver.ca/datacatalogue/buildingFootprints.htm
 
-Vancouver Open Data Catalogue - Zoning Data Package
-https://data.vancouver.ca/datacatalogue/zoning.htm
+2. Vancouver Open Data Catalogue - Zoning Data Package
+   https://data.vancouver.ca/datacatalogue/zoning.htm
 
-Vancouver Open Data Catalogue - Local Area Boundary
-https://data.vancouver.ca/datacatalogue/localAreaBoundary.htm
+3. Vancouver Open Data Catalogue - Local Area Boundary
+   https://data.vancouver.ca/datacatalogue/localAreaBoundary.htm
 
 Environment and Climate Change Canada - National Wind Atlas
 http://www.windatlas.ca/maps-en.php
