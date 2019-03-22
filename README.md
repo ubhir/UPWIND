@@ -7,6 +7,10 @@
 ### Team Members
 Yorgan Pitt, Edward Seh-Taylor, Sean Leipe, Raj Ubhi 
 
+### Story Map Overview 
+
+https://mcmaster.maps.arcgis.com/apps/Cascade/index.html?appid=a4210d0317a547eb8be5ba2f0611e141
+
 ## Mission Statement 
 
 **Upwind** aims to highlight the potential of rooftop wind power in improving the sustainability of urban power generation in Vancouver, British Columbia.
